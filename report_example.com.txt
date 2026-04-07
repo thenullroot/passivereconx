@@ -1,0 +1,29 @@
+===================================
+      PassiveReconX REPORT         
+===================================
+
+TARGET: example.com
+IP: 104.18.27.120
+TOTAL SUBDOMAINS: 5
+
+========== SUBDOMAINS ==========
+dev.example.com
+m.example.com
+products.example.com
+support.example.com
+www.example.com
+
+========== HTTP HEADERS ==========
+HTTP/1.1 200 OK
+Date: Tue, 07 Apr 2026 07:35:52 GMT
+Content-Type: text/html
+Connection: keep-alive
+Server: cloudflare
+Last-Modified: Tue, 24 Mar 2026 22:06:31 GMT
+Allow: GET, HEAD
+Accept-Ranges: bytes
+Age: 2782
+cf-cache-status: HIT
+CF-RAY: 9e875bac3c5a68a4-BOM
+
+
