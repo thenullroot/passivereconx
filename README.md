@@ -135,6 +135,10 @@ Do not use this tool against targets without proper permission.
 
 ---
 
+#### GitHub: https://github.com/thenullroot
+
+#### LinkedIn: https://www.linkedin.com/in/aniket-nayak-634495317/
+
 ## ⭐ Contributing
 
 Feel free to fork the repository and submit pull requests.
