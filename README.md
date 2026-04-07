@@ -1,5 +1,17 @@
 # PassiveReconX
 
+[![Bash](https://img.shields.io/badge/Bash-Script-green?logo=gnu-bash)]()
+[![Platform](https://img.shields.io/badge/Platform-Linux-blue?logo=linux)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow)]()
+[![Status](https://img.shields.io/badge/Status-Active-success)]()
+[![Made By](https://img.shields.io/badge/Made%20by-thenullroot-black)](https://github.com/thenullroot)
+
+
+## 👤 Author
+
+[![GitHub](https://img.shields.io/badge/GitHub-thenullroot-black?logo=github)](https://github.com/thenullroot)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/aniket-nayak-634495317/)
+
 PassiveReconX is a lightweight Bash-based passive reconnaissance tool that gathers intelligence about a target domain using multiple open-source data sources.
 
 ---
