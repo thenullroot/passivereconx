@@ -18,17 +18,14 @@ PassiveReconX is a lightweight Bash-based passive reconnaissance tool that gathe
 
 ## 🔍 Features
 
-- Passive subdomain enumeration
-- Multi-source data collection:
-  - crt.sh (Certificate Transparency logs)
-  - Hackertarget API
-- Supports both domain and full URL input
-- Automatic HTTP → HTTPS fallback
-- IP address resolution
-- HTTP header extraction
-- Clean, deduplicated output
-- Structured recon report generation
-- Subdomain count included
+- 🔎 Passive subdomain enumeration  
+- 🌐 Multi-source data collection  
+- 🔗 Supports domain & full URL input  
+- 🔄 HTTP → HTTPS fallback  
+- 📡 IP resolution  
+- 🧾 HTTP header extraction  
+- 📄 Structured report generation  
+- 🔢 Subdomain count included  
 
 ---
 
